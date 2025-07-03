@@ -1,0 +1,20 @@
+{
+  "name": "Boconia",
+  "symbol": "BOC",
+  "description": "Boconia is the sanctuary of digital civilization \u2014 a decentralized space for those who believe in transparency, participation, and human dignity. Born on Solana, BOC carries the light of freedom through broken systems and fading values. It does not shout. It stands. For integrity. For resilience. For everything a free society must choose to guard.",
+  "image": "https://raw.githubusercontent.com/boconia/token-assets/main/logo.png",
+  "external_url": "https://www.boconia.com",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "Boc1dnzwp8zJSWnKWdF1gBW25k1CawHwtadc9PRgoMcW",
+        "share": 100
+      }
+    ],
+    "social": {
+      "x": "https://x.com/BOCcivil",
+      "telegram": "https://t.me/BoconiaOfficial"
+    }
+  }
+}
